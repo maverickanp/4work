@@ -14,11 +14,9 @@ Algumas funcionalidades foram idealizadas para o projeto, mas qualquer sugestão
 * Criar alertas
 * Enviar notificações push
 
-
-
 ## Contribuições
 
-Aos participantes do treinamento é recomendado o envio de código com novas funcionalidades. Isso ajudará no aprendizado e contribuirá para termos um app mais completo.
+No decorrer do treinamento, cada aluno deverá fazer um fork deste projeto para realizar as atividades propostas, mas após o treinamento é benéfico o envio de código com novas funcionalidades. Isso ajudará a fixar o conteúdo aprendido e contribuirá para que o app seja de fato útil no cotidiano de todos.
 
 ## Licença
 
