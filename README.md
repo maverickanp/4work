@@ -18,7 +18,7 @@ Algumas funcionalidades foram idealizadas para o projeto, mas qualquer sugestão
 
 ## Contribuições
 
-Aos participantes do treinamento é recomendado o envio de pull requests com novas funcionalidades. Isso ajudará no aprendizado.
+Aos participantes do treinamento é recomendado o envio de código com novas funcionalidades. Isso ajudará no aprendizado e contribuirá para termos um app mais completo.
 
 ## Licença
 
