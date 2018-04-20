@@ -3,5 +3,10 @@
     <string name="enter">Entrar</string>
     <string name="email">Email</string>
     <string name="login">Login</string>
+    <string name="name">Nome</string>
     <string name="password">Senha</string>
+    <string name="password_confirm">Confirmar senha</string>
+    <string name="register">Cadastro</string>
+    <string name="sign_up">Criar uma conta</string>
+    <string name="sign_up_create">Criar conta</string>
 </resources>
